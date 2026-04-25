@@ -10,7 +10,7 @@ Tecnologias que estoy aprendiendo
 
 [Mi linkedin](https://www.linkedin.com/in/mateosalgado04) 
 
-<img src="https://github.com/nmateosalgado/nmateosalgado/blob/main/trabajo-ingeniero-de-sistemas-1200x628.jpg?raw=true" width="200">
+<img src="https://github.com/nmateosalgado/nmateosalgado/blob/main/20240923_161903~2.jpg?raw=true" width="200">
 
 # 💫 About Me:
 No tengo forma de saber quién eres como persona en la vida real.<br><br>Solo sé lo que has compartido aquí: estás trabajando en optimizar un perfil tipo Software Developer con varios lenguajes (Python, Java, JavaScript, C++, C, PHP, CSS) y sin experiencia laboral formal especificada.<br><br>Fuera de eso, tu identidad es no especificada.<br>Si quieres, puedo ayudarte a definir un perfil profesional sólido basado en lo que sí sabes hacer.
