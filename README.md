@@ -9,5 +9,6 @@ Tecnologias que estoy aprendiendo
 * Git
 
 [Mi linkedin](https://www.linkedin.com/in/mateosalgado04) 
+
 [Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM0Vd3Lp4qeieIyjUCuOnpJ4aMrLc660_E2g&s)
 
