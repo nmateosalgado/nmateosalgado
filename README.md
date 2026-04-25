@@ -10,5 +10,5 @@ Tecnologias que estoy aprendiendo
 
 [Mi linkedin](https://www.linkedin.com/in/mateosalgado04) 
 
-![Logo](https://github.com/nmateosalgado/nmateosalgado/blob/main/trabajo-ingeniero-de-sistemas-1200x628.jpg?raw=true)
+<img src="https://github.com/nmateosalgado/nmateosalgado/blob/main/trabajo-ingeniero-de-sistemas-1200x628.jpg?raw=true" width="200">
 
